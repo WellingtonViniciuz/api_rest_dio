@@ -51,7 +51,7 @@ lib/
 1. **Clone o repositório** (ou copie os arquivos para um novo projeto Flutter).
 2. **Navegue até a pasta do projeto:**
    ```bash
-   cd seu_repositorio
+   cd api_rest_dio
    ```
 3. **Instale as dependências:**
    ```bash
