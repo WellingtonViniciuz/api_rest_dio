@@ -1,0 +1,21 @@
+name: api_rest_dio
+description: "Projeto de estudo para consumo de API REST utilizando o pacote Dio no FlutterA new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dio: ^5.11.1
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
